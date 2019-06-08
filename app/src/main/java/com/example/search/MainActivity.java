@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void algo(){
-        
+        System.out.println("Update this");
     }
 
     @Override
