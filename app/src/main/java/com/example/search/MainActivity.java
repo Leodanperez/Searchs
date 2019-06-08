@@ -89,6 +89,10 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Update this");
     }
 
+    public void algo(){
+        
+    }
+
     @Override
     protected void onDestroy() {
         compositeDisposable.clear();
